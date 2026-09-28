@@ -1,0 +1,3 @@
+# Generated executables, user guides, and runtime libraries; publish as release assets.
+/linux-x86_64/
+/windows-x86_64/
